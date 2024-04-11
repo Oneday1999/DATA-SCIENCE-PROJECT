@@ -23,5 +23,5 @@ run: py chain_nonchain_density.py
 in the result folder, can open the result file all_restaurant_heatmap.html,all_chains_restaurant_heatmap.html and restaurant_density.jpg  in chrome.
 
 
-# datasource
+# Datasource
 The ODBus_v1.csv file is downloading from https://www150.statcan.gc.ca/n1/pub/21-26-0003/212600032023001-eng.htm
