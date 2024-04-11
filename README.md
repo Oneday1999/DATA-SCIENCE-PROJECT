@@ -1,4 +1,6 @@
-# CMPT353 Project
+# DATA-SCIENCE-PROJECT 353
+
+# Firstly, the file ODbus_v1.csv must be decompressed in the src folder before the program runs! Since the file is >25MB, we had to compress it to facilitate uploading.
 
 # Extra packages requirement (assuming you are running with Anaconda)
 1) pip install gpsphoto
